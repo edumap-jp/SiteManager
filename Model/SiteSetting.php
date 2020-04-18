@@ -177,6 +177,7 @@ class SiteSetting extends SiteManagerAppModel {
  */
 	public $diskSpace = array(
 		-1, //無制限
+		53687091200, //50G
 		10737418240, //10G
 		5368709120, //5G
 		1073741824, //1G
